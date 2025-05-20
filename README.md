@@ -67,6 +67,9 @@ Expected return format (example):
 
 ---
 
+### Video Link
+https://youtu.be/3O6gRAq8Scw
+
 ## 👥 Authors
 
 Developed by **Yigit Alp YUKSEL** – SE4458 Assignment 2
